@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "FaisalabadFixers",
+    "slug": "faisalabadfixers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.rasq.faisalabadfixers",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.rasq.faisalabadfixers"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3b1352f1-1a79-498f-b612-1c15b513e149"
+      }
+    }
+  }
+}
